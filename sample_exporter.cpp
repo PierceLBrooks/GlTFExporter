@@ -2,7 +2,7 @@
 #include "GlTFExporter.cpp"
 
 
-int main(int argc, char* argv[])
+int run(int argc, char** argv)
 {
     // input data from
     // http://www.opengl-tutorial.org/beginners-tutorials/tutorial-4-a-colored-cube/
