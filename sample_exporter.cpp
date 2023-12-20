@@ -1,5 +1,5 @@
 // dont care to make a project with proper include dirs
-#include "GlTFExporter.cpp"
+#include "GlTFExporter.h"
 
 
 int run(int argc, char** argv)
